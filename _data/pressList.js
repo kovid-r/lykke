@@ -1,4 +1,59 @@
 module.exports = [{
+    title: 'AI startup Fibr raises $1.8 million in a funding round led by Accel',
+    url: 'https://economictimes.indiatimes.com/tech/funding/ai-startup-fibr-raises-1-8-million-in-a-funding-round-led-by-accel/articleshow/111835948.cms',
+    publication: 'The Economic Times',
+    month: 'July 2024',
+  },{
+    title: 'https://www.entrepreneur.com/en-in/news-and-trends/fibr-secures-usd-18-mn-funding-led-by-accel-to-enhance-ai/477370',
+    url: 'https://www.equitypandit.com/fibr-raises-1-4-million-in-seed-funding-round/',
+    publication: 'Entrepreneur India',
+    month: 'July 2024',
+  },{
+    title: 'Accel leads $1.8 Mn round in AI startup Fibr',
+    url: 'https://entrackr.com/2024/07/accel-leads-1-8-mn-round-in-ai-startup-fibr/',
+    publication: 'EnTracker',
+    month: 'July 2024',
+  },{
+    title: 'Fibr Raises $1.4 Million in Seed Funding Round',
+    url: 'https://www.equitypandit.com/fibr-raises-1-4-million-in-seed-funding-round/',
+    publication: 'EquityPandit',
+    month: 'July 2024',
+  },{
+    title: 'AI-powered personalization platform Fibr raises $1.8 million led by Accel',
+    url: 'https://indianstartupnews.com/funding/ai-powered-personalization-platform-fibr-raises-funding-led-by-accel-others-6330511',
+    publication: 'Indian Startup News',
+    month: 'July 2024',
+  },{
+    title: 'Fibr Raises $1.8M in Seed Round Led by Accel',
+    url: 'https://www.outlookbusiness.com/corporate/fibr-raises-18m-in-seed-round-led-by-accel',
+    publication: 'Outlook Business',
+    month: 'July 2024',
+  },{
+    title: 'AI Startup Fibr Scores $1.8 mn Fund From Investors Like Accel',
+    url: 'https://startuparticle.com/technology/2024/07/ai-startup-fibr-scores-1-8-mn-fund-from-investors-like-accel/',
+    publication: 'Startup Article',
+    month: 'July 2024',
+  },{
+    title: 'Nected secures $1.5 million in seed funding led by Binny Bansal’s Three State Ventures',
+    url: 'https://www.cnbctv18.com/business/startup/nected-secures-seed-funding-binny-bansal-three-state-ventures-19452357.htm',
+    publication: 'CNBC-TV18',
+    month: 'July 2024',
+  },{
+    title: 'SaaS startup Nected raises $1.5 million in funding from Binny Bansal\'s Three State Ventures, others',
+    url: 'https://economictimes.indiatimes.com/tech/funding/saas-startup-nected-raises-1-5-million-in-funding-from-binny-bansals-three-state-ventures-others/articleshow/112158374.cms',
+    publication: 'The Economic Times',
+    month: 'July 2024',
+  },{
+    title: 'Nected raises $1.5 Mn led by Binny Bansal’s Three State Ventures',
+    url: 'https://entrackr.com/2024/07/nected-raises-1-5-mn-led-by-binny-bansals-three-state-ventures/',
+    publication: 'Entrackr',
+    month: 'July 2024',
+  },{
+    title: 'Nected Bags Seed Funding To Help Businesses Streamline Backend Driven Tech Processes',
+    url: 'https://inc42.com/buzz/nected-bags-seed-funding-to-help-businesses-streamline-backend-driven-tech-processes/',
+    publication: 'Inc42',
+    month: 'July 2024',
+  },{
     title: 'Fashion startup LetsDressUp secures ₹11 crore in pre-series A funding',
     url: 'https://www.cnbctv18.com/business/startup/fashion-startup-letsdressup-secures-11-crore-in-pre-series-a-funding-19436531.htm',
     publication: 'CNBC-TV18',
