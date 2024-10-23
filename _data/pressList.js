@@ -4,8 +4,8 @@ module.exports = [{
     publication: 'The Economic Times',
     month: 'July 2024',
   },{
-    title: 'https://www.entrepreneur.com/en-in/news-and-trends/fibr-secures-usd-18-mn-funding-led-by-accel-to-enhance-ai/477370',
-    url: 'https://www.equitypandit.com/fibr-raises-1-4-million-in-seed-funding-round/',
+    title: 'Fibr Secures USD 1.8 Mn Funding Led by Accel to Enhance AI Personalisation Platform',
+    url: 'https://www.entrepreneur.com/en-in/news-and-trends/fibr-secures-usd-18-mn-funding-led-by-accel-to-enhance-ai/477370',
     publication: 'Entrepreneur India',
     month: 'July 2024',
   },{
