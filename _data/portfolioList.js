@@ -1,4 +1,24 @@
 module.exports = [{
+    title: 'Zime',
+    logo: '/img/portfolio/zime.png',
+    url: 'https://zime.ai/',
+  },{
+    title: 'Sorted',
+    logo: '/img/portfolio/sorted.png',
+    url: 'https://livsorted.com/',
+  },{
+    title: 'Intents Mobi',
+    logo: '/img/portfolio/intents_mobi.jpg',
+    url: 'https://intents.mobi/',
+  },{
+    title: 'Fibr',
+    logo: '/img/portfolio/fibr.png',
+    url: 'https://fibr.ai/',
+  },{
+    title: 'Nected',
+    logo: '/img/portfolio/nected.jpeg',
+    url: 'https://www.nected.ai/',
+  },{
   title: 'Let\'s Dress Up (LDU)',
   logo: '/img/portfolio/lets_dress_up.png',
   url: 'https://letsdressup.in',
