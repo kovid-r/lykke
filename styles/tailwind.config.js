@@ -11,15 +11,12 @@ module.exports = {
       center: true,
       padding: '2.5rem',
       screens: {
-        'sm': '768px',
         'md': '1024px',
         'lg': '1280px',
         'xl': '1536px',
       },
     },
     screens: {
-      'xl': '480px',
-      'sm': '768px',
       'md': '1024px',
       'lg': '1280px',
       'xl': '1536px',
